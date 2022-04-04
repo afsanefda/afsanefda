@@ -1,4 +1,4 @@
-Hey! My name is Afsane. I love buiilding stuff and I do care about environmet 🌏
+Hey! My name is Afsaneh. I love buiilding stuff and I do care about environmet 🌏
 
 <!--
 **afsanefda/afsanefda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
