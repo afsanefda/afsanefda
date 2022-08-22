@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, This is Afsaneh</h2>
 <h4 align="center">A passionate frontend developer based in Berlin.</h4>
 <p align="center">With our help the planet can recover! 🌏</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afsanefda&label=Profile%20views&color=0e75b6&style=flat" alt="afsanefda" /> </p>
 
 - 📝 I regularly write articles on [https://afsanefda.me/blog/](https://afsanefda.me/blog/)
 - 💬 Ask me about **react, nextjs and typescript.**
