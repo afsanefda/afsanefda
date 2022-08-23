@@ -2,7 +2,7 @@
 <h4 align="center">A passionate frontend developer based in Berlin.</h4>
 <p align="center">With our help the planet can recover! 🌏</p>
 
-- 📝 I regularly write articles on [https://afsanefda.me/blog/](https://afsanefda.me/blog/)
+- 📝 I sometimes write articles on [https://afsanefda.me/blog/](https://afsanefda.me/blog/)
 - 💬 Ask me about **react, nextjs and typescript.**
 - ⚡ Fun fact **I watched Friends more than 15 times :O**
 
